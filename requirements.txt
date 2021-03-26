@@ -1,0 +1,5 @@
+streamlit
+backports.lzma
+azure-cognitiveservices-vision-customvision
+azure-cognitiveservices-vision-face
+Pillow

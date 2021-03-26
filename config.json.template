@@ -1,0 +1,13 @@
+{
+    "vision": {
+        "ENDPOINT" : "https://hackathon-vision-classifier.cognitiveservices.azure.com/",
+        "prediction_key" : "",
+        "project_id" : "",
+        "publish_iteration_name" : ""
+    },
+    "face" : {
+        "KEY" : "",
+        "ENDPOINT" : "https://check-if-face.cognitiveservices.azure.com/"
+    },
+    "hastags" : ["#selfie", "#photoshoot","#photooftheday"]
+}

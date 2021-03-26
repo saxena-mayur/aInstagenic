@@ -1,0 +1,6 @@
+config.json
+dump/
+images/
+data/
+.DS_Store
+*.jpg
